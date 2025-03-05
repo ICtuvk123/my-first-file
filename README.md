@@ -1,4 +1,3 @@
-# file about important data structures and algorithms
 # <center> 算法与数据结构 </center>
 
 1.  数据结构
