@@ -1,1 +1,1 @@
-# my-first-file
+# file about important data structures and algorithms
